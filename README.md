@@ -8,3 +8,5 @@ Demo code from Reactive Angular2 @ Fluent 2016. Slides [here](https://docs.googl
 - `npm install -g typings`
 - `typings install`
 - `npm start`
+## demo
+New version for Zenodo demo
